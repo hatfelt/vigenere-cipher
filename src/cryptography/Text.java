@@ -20,7 +20,7 @@ import cryptography.Util;
  */
 class Text
 {
-	static final String SAMPLE_FILEPATH = "C:\\Users\\Ici\\Desktop\\pg1661.txt";
+	static final String SAMPLE_FILEPATH = "D:\\DEC2.txt";
 	
 	// Used to count the number of occurrences for each letter
 	private int[] m_iLetterCounter = new int[Util.ALPHABET_SIZE];
